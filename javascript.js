@@ -1,2 +1,2 @@
-let dog = ['fred', 'tom', 10,]
+let koala = ['fred', 'tom', 10,]
 console.log(cat[0]);
